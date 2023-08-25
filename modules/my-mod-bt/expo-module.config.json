@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["MyModBtModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.mymodbt.MyModBtModule"]
+  }
+}
